@@ -1,2 +1,4 @@
 # spam_classification
-Trying different approaches to solve classification task (spam detection)
+Обзор способов решения задачи классификации для классификации спама.
+
+1. `test_scores.csv` - тестовая выборка с итоговыми скорами
